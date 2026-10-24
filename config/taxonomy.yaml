@@ -1,0 +1,15 @@
+# Shared attribute taxonomy. Every stage reads and writes these keys.
+# Marketplace or brand-specific value lists belong in the attribute pipeline repo.
+
+attributes:
+  color: [sage, ivory, navy, black, rust, ivory-white]
+  fabric: [linen, cotton, wool, viscose, denim]
+  silhouette: [wide-leg, straight, tapered, a-line]
+  fit: [relaxed, regular, slim]
+  pattern: [solid, floral, check, stripe]
+  occasion: [work, weekend, festive]
+
+velocity_labels:
+  - emerging
+  - peak
+  - declining

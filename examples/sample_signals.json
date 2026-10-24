@@ -1,0 +1,6 @@
+[
+  {"source": "catalog", "phrase": "sage linen wide-leg", "weight": 4, "sell_through": 0.62, "attributes": {"color": "sage", "fabric": "linen", "silhouette": "wide-leg"}},
+  {"source": "social", "phrase": "sage linen weekend", "weight": 3, "sell_through": 0.55, "attributes": {"color": "sage", "fabric": "linen", "occasion": "weekend"}},
+  {"source": "catalog", "phrase": "navy cotton slim", "weight": 2, "sell_through": 0.41, "attributes": {"color": "navy", "fabric": "cotton", "fit": "slim"}},
+  {"source": "social", "phrase": "rust wool festive", "weight": 1, "sell_through": 0.28, "attributes": {"color": "rust", "fabric": "wool", "occasion": "festive"}}
+]
